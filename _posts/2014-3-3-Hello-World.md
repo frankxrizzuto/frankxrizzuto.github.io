@@ -1,7 +1,0 @@
----
-layout: post
-title: post zero
-published: true
----
-
- watch out, things might be here 
